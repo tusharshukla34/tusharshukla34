@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning Data Science<br>💬 Ask me about something<br>
+🔭 I’m currently working on Python and Advance Exel<br>🌱 I’m currently learning Data Science<br>💬 Ask me about something<br>
 
 
 ## 🌐 Socials:
